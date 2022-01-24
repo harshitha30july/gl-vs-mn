@@ -1,0 +1,27 @@
+#google 
+{
+height: 100px;
+width: 100px;
+}
+
+.bob{
+    background-color: grey;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+}
+
+.bob3{
+   text-align: center;
+   color: white;
+}
+
+h3{
+    background-color: indigo;
+    color: ivory;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 50px;
+}
